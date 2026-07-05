@@ -39,11 +39,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0034_000.yaml, hash: 'sha256:2c29c84256d62c3a3a75972c4ac64b98f445bb7083ed0f08db4bbcdff44a9085'}
-  - {seq: 1, filename: KR6r0034_001.yaml, hash: 'sha256:8f21eecd419b011c7bcf99007c7950dd3abbf5673c387641acde5de9432ab9e5'}
+  - {seq: 0, filename: KR6r0034_000.yaml, hash: 'sha256:fd5005e12c14105f11ad2a902218ab24b37ca76133605848403a1f73d6f81531'}
+  - {seq: 1, filename: KR6r0034_001.yaml, hash: 'sha256:093a09bbe69a75c33085de66bac911e9daae4aa5b0ee92fefd738eade0246c00'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0034_000.markers.yaml, hash: 'sha256:184b64870dabea169ce24269935f9d30704ad71219e89df1595db82fc8ba828d'}
-  - {seq: 1, role: markers, filename: assets/KR6r0034_001.markers.yaml, hash: 'sha256:047aed39d85d8a12893fa7aa18a11c4235fc729086c914a8adc6598e6efa43a5'}
+  - {seq: 0, role: markers, filename: assets/KR6r0034_000.markers.yaml, hash: 'sha256:c5fbf585ecdbe594a287e5b2597244e27d12972ba04f970b99d4f3021d1558f0'}
+  - {seq: 1, role: markers, filename: assets/KR6r0034_001.markers.yaml, hash: 'sha256:68981f530f67153088590740885dade0a0025e0d3fc6cfb3867e781517f7e3e5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -65,7 +65,4 @@ table_of_contents:
   label: 阿育王息壞目因緣經
   type: juan
   level: 1
-hash: sha256:98a7b164463a2f26cb51817318210d53d5221897eb1b7b8b0bf543eb316fbe19
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4f90d0f9be88a88477aa5a8e12f101571492f65eb15ea9021aa72084bfe01d24
