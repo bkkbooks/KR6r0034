@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0034_000-T.yaml, hash: 'sha256:fd5005e12c14105f11ad2a902218ab24b37ca76133605848403a1f73d6f81531'}
+  - {seq: 0, filename: KR6r0034_000-T.yaml, hash: 'sha256:f3dd5c1f0181d4e7e73173bd44a708813086e6bc464c0fb97c5aa1405782bc41'}
   - {seq: 1, filename: KR6r0034_001-T.yaml, hash: 'sha256:093a09bbe69a75c33085de66bac911e9daae4aa5b0ee92fefd738eade0246c00'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0034_000-T.markers.yaml, hash: 'sha256:b709cec6129c57cdb6594fc10638be00c7b6e56841566abe6e7cfbe591592e43'}
+  - {seq: 0, role: markers, filename: assets/KR6r0034_000-T.markers.yaml, hash: 'sha256:34d72dcf366c40b76c9b70c64fd2edde70935a5c12ebb24a5ae13e06a635c41f'}
   - {seq: 1, role: markers, filename: assets/KR6r0034_001-T.markers.yaml, hash: 'sha256:f8305f6cb9523dea4fb6efc9b713848aace39f2f62c30fee0ca9272ed4782df7'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0034_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 阿育王太子法益壞目因緣經序
@@ -45,4 +45,4 @@ table_of_contents:
   label: 阿育王息壞目因緣經
   type: juan
   level: 1
-hash: sha256:279739e25fbde4726f0bb2bab793e102332aab05d234fe7fa8dc3abecb979830
+hash: sha256:2447ac8bd3a785e33bccc1271d031fc6483a330bd05e8fdee3e7600b017b8bcd
